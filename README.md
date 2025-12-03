@@ -10,6 +10,7 @@ My Goal: To **ACE** AI Enigneer, Project below will be related to AI soon... ( s
 Fun fact:
 - I hate college education
 - I love saving my time
+- web is not my prefered tech so just doing project and tasks
 <!--
 **Ziyad-Elnemr/Ziyad-Elnemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
