@@ -1,5 +1,15 @@
-## Hi there 👋
+## Ziyad Interface 
 
+I am Ziyad Elnemr studying major [Computer Engineering] at Ain Shams University
+
+I’m currently learning Python with projects
+
+My Goal: To **ACE** AI Enigneer, Project below will be related to AI soon... ( stay tuned )
+
+##
+Fun fact:
+- I hate college education
+- I love saving my time
 <!--
 **Ziyad-Elnemr/Ziyad-Elnemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
