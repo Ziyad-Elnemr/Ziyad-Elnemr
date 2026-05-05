@@ -147,7 +147,7 @@
 
 |     | University                    | Degree                                 | Years     | GPA |
 | --- | ----------------------------- | -------------------------------------- | --------- | --- |
-| 🇪🇬  | **Ain Shams University**      | B.Sc. Computer Engineering             | 2023–2027 | 3.3 |
+| 🇪🇬  | **Ain Shams University**      | B.Sc. Computer Engineering             | 2023–2027 | - |
 | 🇬🇧  | **University of East London** | B.Sc. Computer Science _(Dual Degree)_ | 2023–2027 | —   |
 
 <br>
