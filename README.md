@@ -131,7 +131,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ziyad-Elnemr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Ziyad-Elnemr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ziyad-Elnemr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
