@@ -21,7 +21,16 @@
 
 <br>
 
-## 👨‍💻 About Me
+## � GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ziyad-Elnemr/Ziyad-Elnemr/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ziyad-Elnemr/Ziyad-Elnemr/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
+## �👨‍💻 About Me
 
 > Computer Engineering student at **Ain Shams University** (dual degree with **University of East London**).
 > I enjoy solving problems that require critical thinking and structured reasoning — whether that's a full-stack web app, an IoT protocol, or a trained ML model.
@@ -147,7 +156,7 @@
 
 |     | University                    | Degree                                 | Years     | GPA |
 | --- | ----------------------------- | -------------------------------------- | --------- | --- |
-| 🇪🇬  | **Ain Shams University**      | B.Sc. Computer Engineering             | 2023–2027 | - |
+| 🇪🇬  | **Ain Shams University**      | B.Sc. Computer Engineering             | 2023–2027 | -   |
 | 🇬🇧  | **University of East London** | B.Sc. Computer Science _(Dual Degree)_ | 2023–2027 | —   |
 
 <br>
